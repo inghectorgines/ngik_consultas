@@ -1,3 +1,7 @@
+## Descargo y procedo a revisar y calificar.
+
+
+
 #DDI CLASS
 print("Leonardo Zacateco Hernández")
 
